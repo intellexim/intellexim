@@ -1,16 +1,130 @@
-## Hi there 👋
+## **Praefatio: De Methodo et Principiis**
 
-<!--
-**intellexim/intellexim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hoc opus biographicum, quod de peritissimo in scientia computatrali viro tractat, provocatiónem singularem praebet: quomodo notiones recentissimas artis technologicae lingua exprimantur, cuius corpus classicum duo millennia ante has inventiones floruit? Haec non est quaestio levis, sed ea quae communitatem hodiernam Latine loquentium continenter exercet. Ad hanc provocationem apte respondendum, methodus rigida et perspicua adhibita est, ut textus non solum elegans, sed etiam philologice et technice defendi possit.
 
-Here are some ideas to get you started:
+### **De Neologismorum Provocatione Linguae Classicae**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Conari res saeculi vicesimi primi Latine describere est iter ingredi quod multi ante nos ingressi sunt. Ab ipso Renascentiae aevo usque ad hunc diem, docti homines contenderunt ut sermonem Romanum ad novas res, novas scientias, novasque artes accommodarent.1 Huius laboris testes sunt lexica neolatina, sicut Neolatin Lexicon, quae vocabula pro rebus a radiophono usque ad autocinetum colligunt.1 Attamen, consensus universalis de omni vocabulo non existit. Ipsa Vicipaedia Latina, fons magni momenti pro usu hodierno, regulam praeclarum proponit: "Noli fingere\!".3 Haec regula non est prohibitio absoluta neologismorum, sed potius monitum sapientissimum contra verba temere et sine ratione ficta. Hortatur nos ut, ubi nova vocabula necessaria sunt, ea ex principiis solidis et fontibus verificabilibus creemus, non ex mero arbitrio personali.
+
+### **Methodologia Hujus Operis**
+
+Ad summam perspicuitatem et doğruluğunu (Anglice: correctness) consequendam, quam huius biographiae subiectum merito postulat, tria principia fundamentalia in toto hoc opere sequimur:
+
+1. **Prioritas Vocabulorum Attestatorum:** Ubi fieri potest, termini ex fontibus iam stabilitis et in communitate academica acceptis deprompti sunt. Inter hos fontes numerantur opera specialia sicut *Vocabula computatralia*, quae iam solutiones pro multis terminis technicis offerunt, et aliae collectiones a peritis compilatae.4 Hoc principium efficit ut opus nostrum in traditione viva Latinitatis recentioris firmiter radicetur.  
+2. **Derivatio et Compositio ex Principiis:** Pro notionibus quibus nullum vocabulum Latinum acceptum exstat, neologismi formati sunt secundum regulas classicas derivationis et compositionis. Radices Graecae et Latinae, praefixa, et suffixa adhibita sunt, eadem methodo qua termini scientifici per saecula creati sunt.7 Haec ratio efficit ut nova vocabula sint etymologice perspicua et in structura linguae Latinae apte inserta.  
+3. **Descriptio Functionalis pro Translatione Litterali:** Pro notionibus maxime complexis vel abstractis, ubi unum neologismum fingere esset obscurum aut etiam fallax (exempli gratia, pro algorithmo nomine "PagedAttention"), via tutior et clarior electa est. Loco unius verbi, descriptio functionalis in prosa Latina adhibetur, quae principium et operationem notionis accurate explicat. Haec electio claritatem conceptualem super concinnitatem coactam anteponit, ut sensus technicus numquam amittatur.
+
+Hoc modo, biographia quae sequitur non est tantum exercitium rhetoricum, sed conatus serius ad pontem inter duas mundos—humanitatum classicarum et technologiae digitalis—rigorose et intellegenter construendum.
+
+## **Pars I: Biographia Latina**
+
+### **Caput I: Praefatio de Auctore**
+
+Hic est vir qui in ultimis finibus artis digitalis habitat, magister et investigator in Scientia Computatrali, disciplina quae fundamenta logica et mathematica mundi nostri hodierni format. Opus eius non solum ad machinas construendas et programmata scribenda pertinet, sed ad ipsas structuras intellegentiae, securitatis, et fidei in aetate interretiali explorandas. In omni labore suo, philosophiam ducem sequitur quae rigorem algorithmicum cum audacia intellectuali coniungit. Lucretii sententiam, ex nihilo nihil fit, tamquam fundamentum agnoscit, intellegens omnem innovationem veram ex principiis solidis et labore indefesso oriri.12 Eodem tempore, Horatii monitum, sapere aude, tamquam vexillum gerit, scientiam sine timore persequens et limites cognitionis humanae constanter impellens.12 Vita eius professionalis testimonium est huius duplicis studii: fundamenta firmiter tenere dum ad astra audacter tendit.
+
+### **Caput II: De Arte Cryptographica et Fundamentis Securitatis**
+
+Antequam aedificia magnifica technologiae recentioris, sicut catenae codicum, attingantur, necesse est fundamenta inspicere. In mundo digitali, hoc fundamentum est ars cryptographica, disciplina quae informationem contra oculos alienos tuetur. Huius artis peritia est non solum pars operis huius viri, sed condicio sine qua non pro omnibus innovationibus quas postea aggressus est. Cryptographia, cuius nomen a verbis Graecis κρυπτός (occultus) et γράφειν (scribere) ducitur, est scientia nuntios transformandi ut soli legitimi receptores eos legere possint. Processus incipit cum textu simplici (Anglice: plaintext), qui per algorithmum in textum cifratum (Anglice: ciphertext) convertitur, seriem characterum primo aspectu sine sensu.13 Ipsa notio "cifrae" per historiam ad nos pervenit, a verbo Arabico sifr (quod "zerum" significat) per Latinum medium aevum cifra.14 Hoc iter etymologicum iam profundam connexionem inter mathematicam et artem occultandi nuntios ostendit. In hoc campo, peritia eius praecipue in duobus columnis nititur: 1\. Cryptographia Asymmetrica et Claves Digitales: Systemata antiquiora una clave utebantur tam ad nuntium claudendum quam ad aperiendum. Sed revolutio vera venit cum inventione cryptographiae asymmetriae, quae duabus clavibus inter se connexis utitur: clave publica et clave privata.16 Clavis publica, ut nomen indicat, libere distribui potest; quicumque nuntium securum mittere vult, hac clave utitur ad eum claudendum. Sed nuntius ita clausus nonnisi una re in universo mundo aperiri potest: clave privata correspondente, quam solus legitimus receptor possidet.17 Haec architectura ingeniosa non solum secretum nuntiorum (confidentialitatem) garantit, sed etiam fundamentum est pro identitate digitali et subscriptionibus electronicis, ubi actio facta cum clave privata per clavem publicam verificari potest. 2\. Functiones Contabulationis et Integritas Datorum: Altera columna est usus functionum contabulationis (Anglice: hash functions). Haec sunt algorithmia mathematica quae data cuiusvis magnitudinis—sive sit una littera sive tota bibliotheca—accipiunt et in exitum magnitudinis certae et praedictibilis convertunt, qui contabulatio (Anglice: hash) appellatur.20 Hae functiones tres proprietates cruciales habent:
+
+* **Irreversibilitas:** Ex contabulatione, impossibile est data originalia reficere. Est via unius directionis.21  
+* **Determinismus:** Eadem data initialia semper eandem contabulationem producent.23  
+* **Repugnantia Collisionis:** Fere impossibile est duo diversa data initialia invenire quae eandem contabulationem generant.21
+
+Propter has proprietates, contabulatio est quasi sigillum digitale vel "digitalis pollicis impressio" pro datis. Si vel minimus bit in datis originalibus mutatur, contabulatio resultans totaliter et dramatice mutabitur, effectus qui "effectus nivis labentis" (Anglice: avalanche effect) vocatur.23 Hoc modo, hae functiones sunt custodes integritatis datorum, permittentes cuivis verificare an data corrupta vel mutata sint. Hae duae artes—cryptographia asymmetrica et functiones contabulationis—non sunt tantum artes separatae in armamentario huius viri. Sunt potius lapides angulares, principia causaliter necessaria, ex quibus tota structura catenae codicum et fidei distributae aedificatur. Sine clavibus ad identitatem probandam et sine contabulationibus ad integritatem datórum tuendam, notio ipsa registri digitalis immutabilis et decentralizati ne concipi quidem posset.
+
+### **Caput III: De Catena Codicum et Fide Distributa**
+
+Super fundamentis cryptographicis in capite priore descriptis, una ex maximis innovationibus technologicis huius saeculi aedificata est: Catena Codicum (Anglice: Blockchain). Hic terminus, Catena Codicum, ex disputationibus in communitate Latina electus est, ubi codex non solum "truncum" (Anglice: block) significat, sed etiam sensum classicum "libri rationum" vel "registri" evocat, quod est descriptio conceptualiter perfecta pro technologia de qua agitur.24 Opus huius viri in hoc campo non est solum de technologia ipsa, sed de nova forma fiduciae quam haec technologia in mundo digitali creat. Catena Codicum est registrum digitale quod duas proprietates revolutionarias coniungit: immutabilitatem cryptographicam et consensum decentralem. 1\. Columna Immutabilitatis Cryptographicae: Immutabilitas est qualitas quae efficit ut, semel data in catenam inscripta sint, ea mutari aut deleri non possint.25 Hoc non per magiam, sed per mathematicam ingeniosam efficitur. Quisque codex in catena non solum transactiones novas continet, sed etiam contabulationem (hash) cryptographicam codicis qui eum praecedit.27 Hoc modo, nexus firmus et indissolubilis creatur. Si quis malitiosus conaretur vel unam transactionem in codice antiquo mutare, contabulatio illius codicis mutaretur. Quia haec contabulatio in codice sequenti inscripta est, contabulatio codicis sequentis quoque mutaretur, et sic per totam catenam usque ad finem. Haec reactio catenaria (Anglice: chain reaction) efficit ut fraus statim detecta et reiecta sit ab omnibus participibus retis. Est quasi sigillum temporale quod per totam historiam transactionum extenditur, integritatem absolutam praestans.27 2\. Columna Consensus Decentralis: Si immutabilitas est scutum quod registrum protegit, consensus decentralis est cor quod illud vivum et consentaneum tenet. In systematibus traditionalibus (ut in argentariis), una auctoritas centralis registrum custodit et omnes transactiones validat. Sed in catena codicum, nulla talis auctoritas centralis existit. Quomodo ergo milia participum, qui inter se non confidunt, de una et eadem veritate (id est, de statu registri) consentire possunt? Haec est quaestio quae "Problema Ducum Byzantinorum" appellatur, ubi exercitus dispersi de tempore oppugnationis sine duce centrali consentire debent.29 Solutio est mechanismus consensus decentralis, algorithmus qui participes retis ad honeste agendum et ad regulas sequendas impellit. Huius viri peritia varios huiusmodi mechanismos comprehendit, inter quos notissimi sunt:
+
+* **Probatio Operis (Proof of Work):** Ubi participes (dicti "fossores") magnam vim computatralem impendunt ad aenigmata mathematica solvenda. Primus qui solvit, ius acquirit novum codicem addendi et praemium accipit. Hoc systema, quod in BitCoin adhibetur, securitatem per laborem et impensam energiae garantit.30  
+* **Probatio Pignoris (Proof of Stake):** Ubi participes non vim computatralem, sed partem suae cryptomonetae tamquam pignus ("stake") ponunt. Ius novum codicem proponendi proportionaliter ad magnitudinem pignoris assignatur. Si quis fraudulenter agit, pignus suum amittit, quod magnum incitamentum ad honestatem praebet.30
+
+Coniunctio harum duarum columnarum—immutabilitatis et consensus—non solum technologiam novam gignit, sed paradigmata sociale et oeconomicum transformat. Gignit enim rem antea inauditam: fidem distributam (fides distributa). Haec est facultas duarum partium, quae se invicem non noverunt nec confidunt, transactionem securam et verificabilem perficiendi sine necessitate tertiae partis fiduciae (sicut argentaria, gubernium, aut notarius). Opus huius viri igitur non est tantum de codicibus et algorithis; est de architectura novorum systematum fiduciae, quae potentiam habent ad commercium, ad administrationem, et ad societatem ipsam penitus reformandam.
+
+### **Caput IV: De Exemplaribus Linguisticis Permagnis**
+
+In aevo recentissimo, campus intellegentiae artificialis novum culmen attigit per creationem Exemplarium Linguisticorum Permagnorum (ELP), Anglice Very Large Language Models (VLLM). Haec sunt systemata computatralia monumentalia, ex miliardis parametrorum constantia, quae in immensis corporibus textuum et codicum edocta sunt ad sermonem humanum cum subtilitate inaudita intellegendum et generandum.34 In hoc campo, qui est in ipso culmine innovationis, hic vir operam suam navat, non in ipsa creatione exemplarium, sed in problemate fortasse magis critico pro usu practico: quomodo haec monstra computatralia efficienter operentur. Provocatio principalis in usu ELP non est eorum intellegentia, sed eorum fames immanis pro opibus computatralibus. Processus quo exemplar doctum responsum generat, qui inferentia vocatur, immensam potentiam computatralem, praesertim in unitatibus processoriis graphicis (GPU), requirit. Haec necessitas usum ELP valde carum et difficilem reddit, praesertim cum milia utentium simul responsa petunt. In corde huius problematis iacet impedimentum criticum: administratio memoriae cache, quae "KV cache" appellatur, ubi status interni attentionis mechanismi exemplaris reponuntur.37 In systematibus traditionalibus, haec memoria inefficenter administratur, magnum spatium pretiosum in GPU consumens et facultatem systematis ad multas petitiones simul tractandas limitans. Hic est ubi peritia huius viri elucet. Labor eius in systematibus sicut vLLM (quod pro virtual Large Language Model stat) versatur, quae hanc provocationem fundamentalem aggrediuntur per innovationem in administratione memoriae.37 Solutio principalis est ars memoriae administrandae quae a principiis memoriae virtualis in systematibus operativis classicis mutuatur.38 Loco magnos et contiguos memoriae trunci pro unaquaque petitione reservandi, haec ars memoriam in parvas "paginas" dividit, quae dynamice et non-contigue secundum necessitatem allocantur. Beneficia huius accessionis sunt profunda et transformativa:
+
+* **Fluxus (Throughput) Magnopere Auctus:** Systema potest multo plures petitiones utentium per secundum tractare, saepe usque ad 24-plo plus quam methodi traditionales.37  
+* **Latentia Imminuta:** Tempus exspectationis pro unoquoque utente reducitur, quod experientiam fluidiorem et responsiviorem creat.41  
+* **Usus Efficientior Ferramentorum:** Eadem ferramenta (GPU) possunt multo maiorem laborem sustinere, quod impensas operationales dramatice minuit.37
+
+Hoc opus in optimtione inferentiae non est mera emendatio technica; est res oeconomica fundamentalis. Sumptus computatralis est limes maximus qui expansionem et democratizationem intellegentiae artificialis cohibet. Per systemata sicut vLLM, quae inferentiam celerem, facilem, et viliorem reddunt, hic vir non solum problema ingeniariae solvit, sed etiam claustra oeconomica frangit. Labor eius efficit ut potentia ELP non solum paucis gigantibus technologicis, sed etiam minoribus societatibus, investigatoribus academicis, et innovatoribus ubique terrarum pateat. Ita, non est tantum ingeniarius; est facilitator crucialis totius oecosystematis intellegentiae artificialis, qui pontem construit inter potentiam astractam horum exemplarium et applicationem eorum practicam et latam in mundo reali.
+
+### **Caput V: Sententia et Conclusio**
+
+Iter per campos peritiae huius viri—a certitudinibus mathematicis cryptographiae, per architecturam fidei distributae in catena codicum, usque ad complexitates probabilisticas intellegentiae artificialis—non est series disciplinarum disiunctarum, sed potius demonstratio unius mentis polymathicae quae structuras logicas sub superficie rerum diversarum quaerit. Est in hoc itinere parallelismus profundus inter duas linguas quae vitam eius informant: linguam Latinam et linguam machinarum. Ambae enim sunt systemata elegantiae structuratae; ambae claritatem, praecisionem, et logicam postulant. Sicut grammaticus Latinus syntaxin et morphologiam scrutatur ad sententiam perfectam construendam, ita hic ingeniarius algorithmos et structuras datorum examinat ad systema robustum et efficiens aedificandum. Opus eius est testimonium quod humanitas et technologia non sunt adversarii, sed socii in eadem magna inquisitione veritatis et ordinis. Per studium suum, traditionem intellectualem quae a Cicerone et Euclide ad Turing et Nakamoto extenditur, continuat et amplificat. Concludendo, hic vir non est solum artifex in scientia computatrali; est architectus mundi digitalis, qui fundamenta securitatis, fidei, et intellegentiae pro generationibus futuris ponit, semper memor praecepti antiqui: sapere aude.
+
+## **Pars II: Annotationes et Glossarium**
+
+### **Annotationes de Stilo et Grammatica**
+
+In compositione huius biographiae, stylus classicus et academicus adoptatus est. Periodi longiores, structurae subordinatae, et usus participiorum praelati sunt ad gravitatem et eruditionem textus augendam. Ubi fieri potuit, vocabula classica vel ecclesiastica adhibita sunt, sed non timuimus neologismos necessarios formare, semper secundum principia in praefatione exposita. Usus genitivi qualitatis et ablativi absoluti frequens est ad descriptiones densas et elegantes creandas, morem optimorum scriptorum Latinorum imitans.
+
+### **Glossarium Terminorum Technicorum**
+
+Sequens tabula terminos technicos neologisticos in hoc opere adhibitos colligit, una cum definitione Anglica et ratione philologica pro electione cuiusque termini. Haec tabula perspicuitatem et defensionem academicam pro singulis vocabulis praebet, ut lector de rigore methodologico certus esse possit.
+
+| Terminus Latinus | Anglica Definitio (English Definition) | Ratio et Fontes (Rationale and Sources) |
+| :---- | :---- | :---- |
+| Scientia Computatralis | Computer Science | Neologismus late acceptus. Scientia pro "science" et computatralis ut forma adiectiva a computatrum (computer). Hoc vocabulum in fontibus modernis invenitur.4 |
+| Computatrum / Ordinatrum | Computer | Ambo sunt neologismi attestati. Computatrum a verbo computare (calculare) derivatur. Ordinatrum a verbo Francogallico ordinateur mutuatum est, quod ipsum a verbo Latino ordinator venit.1 |
+| Ars Cryptographica | Cryptography | Translatio directa (calque) ex radicibus Graecis κρυπτός (occultus) et γράφειν (scribere), secundum normam internationalem nominum scientificorum. |
+| Clavis Publica / Privata | Public / Private Key | Translatio directa et perspicua. Clavis est verbum classicum pro "key". Haec terminologia fundamentum cryptographiae asymmetriae describit.16 |
+| Functio Contabulationis | Hash Function | Terminus descriptivus. Functio est vocabulum Neolatinum pro functione mathematica. Contabulatio significat "actum registri vel summarii faciendi", quod accurate describit processum creandi summarium (digest) ex datis initialibus.20 |
+| Integritas Datorum | Data Integrity | Translatio directa terminis classicis utens. Integritas pro "integritate, totalitate" et datorum (gen. pl. de datum) pro "of the data". |
+| Catena Codicum | Blockchain | Neologismus fundatus in disputatione communitatis.24 | Catena \+ Codicum (gen. pl. de codex, "liber rationum, truncus"). Codex praefertur propter nexum historicum cum ratione et cryptographia. |
+| Immutabilitas | Immutability | Nomen abstractum Latinum a verbo immutabilis (quod mutari non potest), quod notionem perfecte capit, ut in fontibus descripta est.25 |
+| Consensus Decentralis | Decentralized Consensus | Consensus est verbum Latinum classicum pro "consensione". Decentralis est adiectivum Neolatinum formatum cum praefixo de- ("ab") et centralis ("centralis").30 |
+| Probatio Operis | Proof of Work (PoW) | Translatio functionalis. Probatio ("demonstratio, probatio") et Operis (gen. de opus, "labor, opus"). Hoc accurate describit mechanismum qui laborem computatralem requirit.32 |
+| Probatio Pignoris | Proof of Stake (PoS) | Translatio functionalis. Probatio ("demonstratio, probatio") et Pignoris (gen. de pignus, "pignus, cautio"). Hoc accurate describit mechanismum qui pignus oeconomicum requirit.32 |
+| Fides Distributa | Distributed Trust | Neologismus conceptualis pro hoc textu creatus. Fides ("fiducia, fides, confidentia") \+ Distributa (fem. part. perf. pass. de distribuere). Hoc capit innovationem socio-technicam fundamentalem catenae codicum. |
+| Exemplar Linguisticum Permagnum (ELP) | Very Large Language Model (VLLM) | Neologismus descriptivus. Exemplar ("model"), Linguisticum ("linguistic"), et Permagnum ("valde magnum"). Haec compositio est perspicua et sequitur exempla terminologiae scientificae.34 |
+| Inferentia Efficiens | Efficient Inference | Inferentia est terminus philosophicus et logicus iam stabilitus. Efficiens est verbum Latinum classicum pro "efficaci, efficienti". |
+| Administratio Memoriae | Memory Management | Translatio directa et clara. Administratio ("gestio, administratio") et Memoriae (gen. de memoria). |
+
+#### **Fuentes citadas**
+
+1. [Latin words for new things. : r/latin \- Reddit, acceso: septiembre 14, 2025.](https://www.reddit.com/r/latin/comments/1awv4zn/latin_words_for_new_things/)  
+2. [Latins | Neo-Latin Lexicon, acceso: septiembre 14, 2025.](https://neolatinlexicon.org/latin/)  
+3. [Latin Wikipedia, acceso: septiembre 14, 2025.](https://en.wikipedia.org/wiki/Latin_Wikipedia)
+4. [Latin word for computer science \- Google Groups, acceso: septiembre 14, 2025.](https://groups.google.com/g/alt.language.latin/c/rHdrh3yBoaI)  
+5. [Latin word for "code" or "program" (the verb) \- Latin Language Stack ..., acceso: septiembre 14, 2025.](https://latin.stackexchange.com/questions/196/latin-word-for-code-or-program-the-verb)  
+6. [Computer terms in Latin \- Learning Latin \- Textkit Greek and Latin, acceso: septiembre 14, 2025.](https://www.textkit.com/t/computer-terms-in-latin/795)  
+7. [Latin roots in scientific terminology | Elementary Latin Class Notes \- Fiveable, acceso: septiembre 14, 2025.](https://library.fiveable.me/elementary-latin/unit-11/latin-roots-scientific-terminology/study-guide/P6Hj9JHIzttHqkd6)  
+8. [Practices of Science: The Language of Science | manoa.hawaii.edu/ExploringOurFluidEarth, acceso: septiembre 14, 2025.](https://manoa.hawaii.edu/exploringourfluidearth/biological/what-alive/properties-life/practices-science-language-science)  
+9. [LATIN AND GREEK ROOTS OF SCIENTIFIC TERMS \- AWS, acceso: septiembre 14, 2025.](https://core-docs.s3.amazonaws.com/documents/asset/uploaded_file/677417/LatinAndGreekRootsOfScientific.pdf)  
+10. [Common Latin and Greek Roots in Biology Vocabulary \- Dummies.com, acceso: septiembre 14, 2025.](https://www.dummies.com/article/academics-the-arts/science/biology/common-latin-and-greek-roots-in-biology-vocabulary-177272/)  
+11. [Latin and Greek in Scientific Terminology \- Dr Andrew Dunning, acceso: septiembre 14, 2025.](https://andrewdunning.ca/latin-greek-scientific-terminology/vocabulary/latin/)  
+12. [Latin Phrases For Computer Programmers \- Aedifex's Blog, acceso: septiembre 14, 2025.](http://christopherblack.net/2020-12-25-latin-phrases-for-programmers/) 
+13. [Cryptography \- Wikipedia, acceso: septiembre 14, 2025.](https://en.wikipedia.org/wiki/Cryptography)  
+14. [A brief history of western cryptography through the Middle Ages \- The Oak, acceso: septiembre 14, 2025.](https://oak.atlantia.sca.org/a-brief-history-of-western-cryptography-through-the-middle-ages/)  
+15. [Cipher \- Wikipedia, acceso: septiembre 14, 2025.](https://en.wikipedia.org/wiki/Cipher)  
+16. [Public-key cryptography \- Wikipedia, acceso: septiembre 14, 2025.](https://en.wikipedia.org/wiki/Public-key_cryptography)  
+17. [www.cloudflare.com, acceso: septiembre 14, 2025.](https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/#:~:text=What%20is%20public%20key%20cryptography,decrypted%20with%20the%20private%20key.)  
+18. [How does public key cryptography work? \- Cloudflare, acceso: septiembre 14, 2025.](https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/)  
+19. [Public Key Encryption \- GeeksforGeeks, acceso: septiembre 14, 2025.](https://www.geeksforgeeks.org/computer-networks/public-key-encryption/)  
+20. [Hash function \- Wikipedia, acceso: septiembre 14, 2025.](https://en.wikipedia.org/wiki/Hash_function)  
+21. [Hash functions: definition, usage, and examples \- IONOS, acceso: septiembre 14, 2025.](https://www.ionos.com/digitalguide/server/security/hash-function/)  
+22. [What is Hashing? \- Codecademy, acceso: septiembre 14, 2025.](https://www.codecademy.com/resources/blog/what-is-hashing)  
+23. [Hash Function \- Definitions, Example, How it Works \- Corporate Finance Institute, acceso: septiembre 14, 2025.](https://corporatefinanceinstitute.com/resources/cryptocurrency/hash-function/)  
+24. [Translation request: "blockchain" : r/latin \- Reddit, acceso: septiembre 14, 2025.](https://www.reddit.com/r/latin/comments/5jjj43/translation_request_blockchain/)  
+25. [rejolut.com, acceso: septiembre 14, 2025.](https://rejolut.com/blog/misconception-of-blockchain-mutability/#:~:text=The%20term%20%22immutability%22%20in%20the,and%20consensus%2C%20if%20at%20all.)  
+26. [Immutability \- Binance Academy, acceso: septiembre 14, 2025.](https://academy.binance.com/en/glossary/immutability)  
+27. [Blockchain Immutability — Why Does it Matter? | by Kevin Doubleday | Fluree PBC | Medium, acceso: septiembre 14, 2025.](https://medium.com/fluree/immutability-and-the-enterprise-an-immense-value-proposition-98cd3bf900b1)  
+28. [What is an immutable ledger in blockchain and what are its benefits? \- CFTE, acceso: septiembre 14, 2025.](https://blog.cfte.education/immutable-ledger-in-blockchain/)  
+29. [What is a Blockchain Consensus Mechanism? | Kraken, acceso: septiembre 14, 2025.](https://www.kraken.com/learn/what-is-blockchain-consensus-mechanism)  
+30. [Discover Consensus Mechanisms: Blockchain and Cryptocurrency Essentials \- Investopedia, acceso: septiembre 14, 2025.](https://www.investopedia.com/terms/c/consensus-mechanism-cryptocurrency.asp)  
+31. [Consensus Mechanisms In Blockchain: A Deep Dive Into The Different Types \- Hacken.io, acceso: septiembre 14, 2025.](https://hacken.io/discover/consensus-mechanisms/)  
+32. [List of 10 Types of Consensus Mechanism with Examples | by Blockchain Lab \- Medium, acceso: septiembre 14, 2025.](https://medium.com/@theblockchains/list-of-10-types-of-consensus-mechanism-with-examples-bf65bd752967)  
+33. [What are Consensus Mechanisms? \- Visa, acceso: septiembre 14, 2025.](https://usa.visa.com/solutions/crypto/consensus-mechanisms.html)  
+34. [LLMs for Translation: Historical, Low-Resourced Languages and Contemporary AI Models, acceso: septiembre 14, 2025.](https://arxiv.org/html/2503.11898v1)  
+35. [LLM-based Translation for Latin: Summaries Improve Machine Translation | SwissText, acceso: septiembre 14, 2025.](http://www.swisstext.org/wp-content/uploads/2025/05/LLM-based-Translation-for-Latin-Summaries-Improve-Machine-Translation.pdf)  
+36. [LLM-based Machine Translation and Summarization for Latin \- ZORA, acceso: septiembre 14, 2025.](https://www.zora.uzh.ch/id/eprint/259369/1/LREC_2024_MT_for_Latin.pdf)  
+37. [What is vLLM? \- Red Hat, acceso: septiembre 14, 2025](https://www.redhat.com/en/topics/ai/what-is-vllm)  
+38. [What is vLLM? \- Hopsworks, acceso: septiembre 14, 2025.](https://www.hopsworks.ai/dictionary/vllm)  
+39. [What is vLLM? How to Install and Use vLLM, Explained \- Apidog, acceso: septiembre 14, 2025](https://apidog.com/blog/vllm/)  
+40. [Code Review: Deep Dive into vLLM's Architecture and Implementation Analysis of OpenAI-Compatible Serving (1/2) | Zerohertz, acceso: septiembre 14, 2025](https://zerohertz.github.io/vllm-openai-1/)  
+41. [What is vLLM: A Guide to Quick Inference \- Hyperstack, acceso: septiembre 14, 2025.](https://www.hyperstack.cloud/blog/case-study/what-is-vllm-a-guide-to-quick-inference)  
+42. [What is Public Key Cryptography? | Security Encyclopedia \- HYPR, acceso: septiembre 14, 2025.](https://www.hypr.com/security-encyclopedia/public-key-cryptography)  
+43. [Consensus (computer science) \- Wikipedia, acceso: septiembre 14, 2025.](https://en.wikipedia.org/wiki/Consensus_\(computer_science\))
